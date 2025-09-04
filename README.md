@@ -1,17 +1,17 @@
-<p align="center">
-  <img src="https://i.imgur.com/yourBanner.png" alt="banner" width="100%" />
-</p>
 
-# 👋 Hi, I'm Agus Lasalvia
+
+<h1 align="center">👋 Hi, I'm Agus Lasalvia</h1>
 
 <p align="center">
-  <b>Student & Developer | JS • Python • C# • Learning Golang</b>
+I'm a <b>student</b> and <b>developer</b> passionate about learning and building creative solutions with code.<br>
+My main technologies are <b>JavaScript</b> and <b>Python</b>, I'm comfortable with <b>C#</b>, and currently learning <b>Golang</b>.
 </p>
 
 ---
 
-## 🚀 Featured Public Projects
+<h2 align="center">🚀 Featured Public Projects</h2>
 
+<p align="center">
 <table>
   <tr>
     <td align="center">
@@ -45,10 +45,11 @@
     </td>
   </tr>
 </table>
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript"/>
@@ -57,16 +58,30 @@
   <img src="https://img.shields.io/badge/-Go-333?style=flat&logo=go"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusLasalvia&layout=compact&theme=radical)](https://github.com/AgusLasalvia)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusLasalvia&layout=compact&theme=radical"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=AgusLasalvia&theme=radical"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/AgusLasalvia)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram)](https://instagram.com/AgusLasalvia)
-[![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail)](mailto:tuemail@gmail.com)
+<p align="center">
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/AgusLasalvia">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/AgusLasalvia">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram"/>
+  </a>
+</p>
 
 ---
 
-> 💡 _“Learning never stops, and code is my tool to explore the world.”_
+<p align="center">
+  <em>“Learning never stops, and code is my tool to explore the world.”</em>
+</p>
