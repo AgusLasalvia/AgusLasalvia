@@ -27,7 +27,9 @@ My main technologies are **JavaScript** and **Python**, I'm comfortable with **C
 
 ## 📊 GitHub Contribution Graph
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AgusLasalvia&theme=radical)](https://git.io/streak-stats)---
+[![GitHub Streak](https://streak-stats.demolab.com?user=AgusLasalvia&theme=radical)](https://git.io/streak-stats)
+
+---
 
 ## 🌐 Connect with Me
 
