@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [aguslasalvia.verce.app](aguslasalvia.verce.app)
+- 👨‍💻 All of my projects are available at [aguslasalvia.verce.app](aguslasalvia.vercel.app)
 
 - 📫 How to reach me **agus.blumenfeld13@gmail.com**
 
