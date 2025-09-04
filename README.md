@@ -23,17 +23,13 @@ My main technologies are **JavaScript** and **Python**, I'm comfortable with **C
 ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
 ![Golang](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
 
----
-
-## 📊 GitHub Contribution Graph
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusLasalvia&layout=compact&theme=radical)](https)
 
 ---
 
 ## 🌐 Connect with Me
 
-Check out my social links and more info in my [GitHub profile](https://github.com/AgusLasalvia).
+You can contact me via Email, LinkedIn, Instagram, etc
 
 ---
 
