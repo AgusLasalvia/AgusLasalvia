@@ -63,7 +63,7 @@ My main technologies are <b>JavaScript</b> and <b>Python</b>, I'm comfortable wi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusLasalvia&layout=compact&theme=radical"/>
   <br>
-  <img src="https://streak-stats.demolab.com?user=AgusLasalvia&theme=radical"/>
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AgusLasalvia&theme=radical)
 </p>
 
 ---
