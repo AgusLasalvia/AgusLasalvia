@@ -27,8 +27,7 @@ My main technologies are **JavaScript** and **Python**, I'm comfortable with **C
 
 ## 📊 GitHub Contribution Graph
 
-[![GitHub Contribution Calendar](https://github.com/AgusLasalvia/AgusLasalvia/assets/graph.svg)](https://github.com/AgusLasalvia)
-
+[![AgusLasalvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgusLasalvia&show_icons=true&theme=radical)](https://github.com/AgusLasalvia)
 ---
 
 ## 🌐 Connect with Me
