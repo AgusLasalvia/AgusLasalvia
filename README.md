@@ -1,40 +1,72 @@
+<p align="center">
+  <img src="https://i.imgur.com/yourBanner.png" alt="banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Agus Lasalvia
 
-I'm a **student** and **developer** passionate about learning and building creative solutions with code.  
-My main technologies are **JavaScript** and **Python**, I'm comfortable with **C#**, and currently learning **Golang**.
+<p align="center">
+  <b>Student & Developer | JS • Python • C# • Learning Golang</b>
+</p>
 
 ---
 
 ## 🚀 Featured Public Projects
 
-- 🚚 [YourDelivery](https://github.com/AgusLasalvia/YourDelivery)  
-  ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
-- 🏛️ [Congress-2023](https://github.com/AgusLasalvia/Congress-2023)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-- 🤖 [Bandicoot Discord Bot](https://github.com/AgusLasalvia/bandicoot-discord-bot)  
-  ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-- 📊 [Dashcord](https://github.com/AgusLasalvia/dashcord)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-- 🐄 [Tambo](https://github.com/AgusLasalvia/tambo)  
-  ![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
+<table>
+  <tr>
+    <td align="center">
+      🚚<br>
+      <a href="https://github.com/AgusLasalvia/YourDelivery"><b>YourDelivery</b></a><br>
+      <img src="https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp"/>
+    </td>
+    <td align="center">
+      🏛️<br>
+      <a href="https://github.com/AgusLasalvia/Congress-2023"><b>Congress-2023</b></a><br>
+      <img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs"/>
+      <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript"/>
+    </td>
+    <td align="center">
+      🤖<br>
+      <a href="https://github.com/AgusLasalvia/bandicoot-discord-bot"><b>Bandicoot Discord Bot</b></a><br>
+      <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      📊<br>
+      <a href="https://github.com/AgusLasalvia/dashcord"><b>Dashcord</b></a><br>
+      <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript"/>
+      <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python"/>
+    </td>
+    <td align="center">
+      🐄<br>
+      <a href="https://github.com/AgusLasalvia/tambo"><b>Tambo</b></a><br>
+      <img src="https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)
-![Golang](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp"/>
+  <img src="https://img.shields.io/badge/-Go-333?style=flat&logo=go"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusLasalvia&layout=compact&theme=radical)](https)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusLasalvia&layout=compact&theme=radical)](https://github.com/AgusLasalvia)
 
 ---
 
 ## 🌐 Connect with Me
 
-You can contact me via Email, LinkedIn, Instagram, etc
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/AgusLasalvia)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram)](https://instagram.com/AgusLasalvia)
+[![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail)](mailto:tuemail@gmail.com)
 
 ---
 
-> _“Learning never stops, and code is my tool to explore the world.”_
+> 💡 _“Learning never stops, and code is my tool to explore the world.”_
