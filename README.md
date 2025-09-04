@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [aguslasalvia.verce.app](aguslasalvia.verce.app)
+- 👨‍💻 All of my projects are available at [aguslasalvia.vercel.app](https://aguslasalvia.vercel.app)
 
 - 📫 How to reach me **agus.blumenfeld13@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/agustin-lasalvia/](https://www.linkedin.com/in/agustin-lasalvia/)
+- 📄 Know about my experiences [resume on linkedin](https://www.linkedin.com/in/agustin-lasalvia/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
