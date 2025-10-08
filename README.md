@@ -1,1 +1,46 @@
 
+```go
+package main
+
+import "fmt"
+
+// SoftwareEngineer struct
+type Developer struct {
+    Name       string
+    Age        int
+    Languages  []string
+    Role       string
+    University string
+    Email      string
+    LinkedIn   string
+    Instagram  string
+}
+
+type Profile struct {
+    Developer
+}
+
+// Greet method
+func (a Developer) Greet() {
+    fmt.Println("Hello There! :)")
+}
+
+func main() {
+    agustin := Developer{
+        SoftwareEngineer{
+            Name:       "Agustin Lasalvia",
+            Age:        24,
+            Languages:  []string{"Spanish", "English"},
+            Role:       "IT Support Technitian",
+            University: "ORT University",
+            Email:      "agus.blumenfeld13@gmail.com",
+            LinkedIn:   "https://www.linkedin.com/in/agustin-lasalvia,
+            Instagram:  "https://www.instagram.com/agustin.lasalvia",
+        },
+    }
+
+    agustin.Greet()
+
+    // Optional: display Agustin info
+    fmt.Printf("%+v\n", agustin)
+}
