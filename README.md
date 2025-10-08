@@ -4,7 +4,7 @@ package main
 
 import "fmt"
 
-// SoftwareEngineer struct
+// SoftwareDeveloper struct
 type Developer struct {
     Name       string
     Age        int
@@ -25,6 +25,7 @@ func (a Developer) Greet() {
     fmt.Println("Hello There! :)")
 }
 
+// main function
 func main() {
     agustin := Developer{
         SoftwareEngineer{
