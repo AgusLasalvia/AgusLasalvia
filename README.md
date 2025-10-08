@@ -34,7 +34,7 @@ func main() {
             Role:       "IT Support Technitian",
             University: "ORT University",
             Email:      "agus.blumenfeld13@gmail.com",
-            LinkedIn:   "https://www.linkedin.com/in/agustin-lasalvia,
+            LinkedIn:   "https://www.linkedin.com/in/agustin-lasalvia",
             Instagram:  "https://www.instagram.com/agustin.lasalvia",
         },
     }
