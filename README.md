@@ -40,7 +40,4 @@ func main() {
     }
 
     agustin.Greet()
-
-    // Optional: display Agustin info
-    fmt.Printf("%+v\n", agustin)
 }
