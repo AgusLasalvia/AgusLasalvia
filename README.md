@@ -4,7 +4,7 @@ package main
 
 import "fmt"
 
-// SoftwareDeveloper struct
+// Developer struct
 type Developer struct {
     Name       string
     Age        int
@@ -16,9 +16,6 @@ type Developer struct {
     Instagram  string
 }
 
-type Profile struct {
-    Developer
-}
 
 // Greet method
 func (a Developer) Greet() {
