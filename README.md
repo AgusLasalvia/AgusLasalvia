@@ -24,18 +24,16 @@ func (a Developer) Greet() {
 
 // main function
 func main() {
-    agustin := Developer{
-        SoftwareEngineer{
-            Name:       "Agustin Lasalvia",
-            Age:        24,
-            Languages:  []string{"Spanish", "English"},
-            Role:       "IT Support Technitian",
-            University: "ORT University",
-            Email:      "agus.blumenfeld13@gmail.com",
-            LinkedIn:   "https://www.linkedin.com/in/agustin-lasalvia",
-            Instagram:  "https://www.instagram.com/agustin.lasalvia",
-        },
-    }
+	agustin := Developer{
+		Name:       "Agustin Lasalvia",
+		Age:        24,
+		Languages:  []string{"Spanish", "English"},
+		Role:       "IT Support Technician",
+		University: "ORT University",
+		Email:      "agus.blumenfeld13@gmail.com",
+		LinkedIn:   "https://www.linkedin.com/in/agustin-lasalvia",
+		Instagram:  "https://www.instagram.com/agustin.lasalvia",
+	}
 
-    agustin.Greet()
+	agustin.Greet()
 }
