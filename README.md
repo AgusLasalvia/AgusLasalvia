@@ -14,6 +14,7 @@ type Developer struct {
     Email      string
     LinkedIn   string
     Instagram  string
+	Status	   string
 }
 
 
@@ -33,6 +34,7 @@ func main() {
 		Email:      "agus.blumenfeld13@gmail.com",
 		LinkedIn:   "https://www.linkedin.com/in/agustin-lasalvia",
 		Instagram:  "https://www.instagram.com/agustin.lasalvia",
+		Status:		"Searching for a Junior Developer Position"
 	}
 
 	agustin.Greet()
