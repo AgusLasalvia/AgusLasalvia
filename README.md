@@ -19,7 +19,7 @@ type Developer struct {
 
 
 // Greet method
-func (a Developer) Greet() {
+func (a *Developer) Greet() {
     fmt.Println("Hello There! :)")
 }
 
