@@ -29,7 +29,7 @@ func main() {
 		Name:       "Agustin Lasalvia",
 		Age:        24,
 		Languages:  []string{"Spanish", "English"},
-		Role:       "IT Support Technician",
+		Role:       "Junior Developer",
 		University: "ORT University",
 		Email:      "agus.blumenfeld13@gmail.com",
 		LinkedIn:   "https://www.linkedin.com/in/agustin-lasalvia",
