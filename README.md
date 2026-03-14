@@ -1,41 +1,43 @@
+```javascript
 
-```go
-package main
+class Developer {
+  constructor({
+    name,
+    age,
+    languages,
+    role,
+    university,
+    email,
+    linkedin,
+    instagram,
+    status
+  }) {
+    this.name = name
+    this.age = age
+    this.languages = languages
+    this.role = role
+    this.university = university
+    this.email = email
+    this.linkedin = linkedin
+    this.instagram = instagram
+    this.status = status
+  }
 
-import "fmt"
-
-// Developer struct
-type Developer struct {
-    Name       string
-    Age        int
-    Languages  []string
-    Role       string
-    University string
-    Email      string
-    LinkedIn   string
-    Instagram  string
-	Status	   string
+  greet() {
+    console.log("Hello There! :)")
+  }
 }
 
+const agustin = new Developer({
+  name: "Agustin Lasalvia",
+  age: 24,
+  languages: ["Spanish", "English"],
+  role: "Junior Developer",
+  university: "ORT University",
+  email: "agus.blumenfeld13@gmail.com",
+  linkedin: "https://www.linkedin.com/in/agustin-lasalvia",
+  instagram: "https://www.instagram.com/agustin.lasalvia",
+  status: "Searching for a Junior Developer Position"
+})
 
-// Greet method
-func (a *Developer) Greet() {
-    fmt.Println("Hello There! :)")
-}
-
-// main function
-func main() {
-	agustin := Developer{
-		Name:       "Agustin Lasalvia",
-		Age:        24,
-		Languages:  []string{"Spanish", "English"},
-		Role:       "Junior Developer",
-		University: "ORT University",
-		Email:      "agus.blumenfeld13@gmail.com",
-		LinkedIn:   "https://www.linkedin.com/in/agustin-lasalvia",
-		Instagram:  "https://www.instagram.com/agustin.lasalvia",
-		Status:		"Searching for a Junior Developer Position"
-	}
-
-	agustin.Greet()
-}
+agustin.greet()
